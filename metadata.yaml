@@ -1,0 +1,28 @@
+_repo: Histoire-du-Canal-de-Suez_65092
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lesseps, Ferdinand de
+    aliases:
+    - Lesseps, Ferdinand Marie, comte de
+    - De Lesseps, Ferdinand
+    birthdate: 1805
+    deathdate: 1894
+    gutenberg_agent_id: '50383'
+    url: http://www.gutenberg.org/2009/agents/50383
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ferdinand_de_Lesseps
+    - https://fr.wikipedia.org/wiki/Ferdinand_de_Lesseps
+description: ''
+gutenberg_issued: '2021-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65092'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Histoire du Canal de Suez
+url: http://www.gutenberg.org/ebooks/65092
